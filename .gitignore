@@ -3,3 +3,4 @@ experiments_sensor3d
 log
 pretrained_model
 __pycache__
+*.sh
